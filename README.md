@@ -38,6 +38,13 @@ Flutter – For building the UI and managing game screens.
 
 Flame Engine – For rendering game elements, animations, and physics..
 
+![Image Alt](https://github.com/itskundanhere/AstroJet/blob/main/1.jpg?raw=true)
+![Image Alt](https://github.com/itskundanhere/AstroJet/blob/main/2.jpg?raw=true)
+![Image Alt](https://github.com/itskundanhere/AstroJet/blob/main/3.jpg?raw=true)
+![Image Alt](https://github.com/itskundanhere/AstroJet/blob/main/4.jpg?raw=true)
+ 
+ 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
