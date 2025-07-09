@@ -1,6 +1,42 @@
-# game_jet
+# AstroJet
 
-A new Flutter project.
+# 🚀 AstroJet - Flutter + Flame Game
+AstroJet is an action-packed, arcade-style game built using Flutter and Flame engine, where you take control of a futuristic airplane and battle incoming asteroids in space!
+
+Choose your plane's color — Blue, Red, Green, or Purple — and get ready to defend the skies using powerful lasers, bombs, and shields.
+
+🎮 Gameplay Features:
+✈️ Plane Selection: Choose from 4 vibrant plane colors before launching the mission.
+
+☄️ Asteroid Invasion: Dodge or destroy falling asteroids using your laser gun.
+
+🔫 Power Pickups:
+
+Bomb: Destroys all nearby asteroids instantly.
+
+Laser: Enhances your firepower to shoot more effectively.
+
+Shield: Temporarily protects your plane from collisions.
+
+💥 Game Over: The game ends if your airplane collides with an asteroid.
+
+🎵 Music & Sound Effects
+AstroJet features immersive sound effects and a futuristic background music theme to enhance your gameplay experience. From the laser fire to the explosive asteroid impacts, each sound is crafted to give you the thrill of a space battle.
+
+🚀 Background Music: A sci-fi themed audio loop sets the tone of deep space action.
+
+🔫 Laser Shots: Crisp and sharp laser fire sound on each tap.
+
+💥 Explosions: Realistic asteroid blast sounds for an intense arcade feel.
+
+🛡️ Power-Ups: Unique sound effects for bomb, shield, and laser pickups.
+
+All audio is managed using Flame Audio, providing seamless integration and minimal latency for real-time action.
+
+🛠️ Built With:
+Flutter – For building the UI and managing game screens.
+
+Flame Engine – For rendering game elements, animations, and physics..
 
 ## Getting Started
 
